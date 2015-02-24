@@ -1,0 +1,50 @@
+body {
+  background-color: #522b72;
+  color: #E7E7E7;
+}
+header {
+  font-family: Courier;
+  text-align: center;
+  margin-top: 50px;
+  display: block;
+}
+section {
+  background-color: #E7E7E7;
+  color: #050505;
+  padding: 50px 50px 50px 50px;
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  border-radius: 15px;
+  display: block;
+  margin: auto;
+}
+aside {
+  display: block;
+  margin: auto;
+}
+.rabbit {
+  float:right;
+}
+.turtle {
+  float: left;
+}
+button {
+  font-size: 18px;
+  border: 2px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 15px;
+}
+input {
+  margin: auto;
+}
+footer {
+  background-image: url("images/race.gif");
+  background-repeat: repeat-x;
+  clear: both;
+  height: 50px;
+  display: block;
+  padding: 0px 0px 0px 0px;
+}
+ 
